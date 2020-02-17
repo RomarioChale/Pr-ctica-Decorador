@@ -1,0 +1,7 @@
+C:\Users\edwin.chale\source\repos\Práctica decorador\Práctica decorador\bin\Debug\Práctica decorador.exe.config
+C:\Users\edwin.chale\source\repos\Práctica decorador\Práctica decorador\bin\Debug\Práctica decorador.exe
+C:\Users\edwin.chale\source\repos\Práctica decorador\Práctica decorador\bin\Debug\Práctica decorador.pdb
+C:\Users\edwin.chale\source\repos\Práctica decorador\Práctica decorador\obj\Debug\Práctica decorador.csprojAssemblyReference.cache
+C:\Users\edwin.chale\source\repos\Práctica decorador\Práctica decorador\obj\Debug\Práctica decorador.csproj.CoreCompileInputs.cache
+C:\Users\edwin.chale\source\repos\Práctica decorador\Práctica decorador\obj\Debug\Práctica decorador.exe
+C:\Users\edwin.chale\source\repos\Práctica decorador\Práctica decorador\obj\Debug\Práctica decorador.pdb
